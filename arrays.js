@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 var array = [1]
 var element = "foo"
@@ -77,3 +78,6 @@ var removeElementFromEndOfArray = function(array){
 
 
 
+=======
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
+>>>>>>> 661b621d6ab8c0ddd7a56c5b61acaa0ce5c4b3c2
